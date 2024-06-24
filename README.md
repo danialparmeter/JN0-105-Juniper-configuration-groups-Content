@@ -14,7 +14,7 @@ To implement a configuration group, administrators define the group with specifi
 </h2>
 When utilizing configuration groups, it is recommended to use clear and descriptive names for groups to enhance readability and maintainability of the configuration. Proper scoping within the configuration hierarchy ensures that group settings are applied only where intended, minimizing unintended consequences. Moreover, documenting the purpose and usage of each configuration group helps in understanding and managing complex network configurations over time. By adhering to these best practices, administrators can leverage Juniper configuration groups to streamline network operations and maintain a consistent configuration state across their Junos OS devices.<br />
 <h3>
-	Share JN0-105 Juniper Configuration Groups related questions below.
+	Share <a href="https://www.dumpsinfo.com/exam/jn0-105/" target="_blank">JN0-105</a> Juniper Configuration Groups related questions below.
 </h3>
 <strong>1.Exhibit</strong><br />
 <strong> user@router&gt; show route 192.168.100.2</strong><br />
